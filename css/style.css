@@ -1,0 +1,20 @@
+/* Created by: Santiago Hewett
+* Created on: Mar 2023
+* This CSS file defines the style for index.html
+* ICS20-Programming-SantiagoH-Unit2-02-HTML-AreaPerRectangle
+*/
+
+body {
+	background-color: #16c095;
+}
+
+h1 {
+	background-color: #13b6b9;
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #fff700;
+}
