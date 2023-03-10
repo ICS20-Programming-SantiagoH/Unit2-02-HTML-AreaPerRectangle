@@ -5,16 +5,16 @@
 */
 
 body {
-	background-color: #16c095;
+  background-color: #16c095;
 }
 
 h1 {
-	background-color: #13b6b9;
+  background-color: #13b6b9;
 	color: hsl(0, 0%, 0%);
 	padding: 40px;
 	text-align: center;
 }
 
 p {
-	background-color: #fff700;
+  background-color: #fff700;
 }
